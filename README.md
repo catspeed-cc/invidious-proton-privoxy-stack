@@ -11,9 +11,9 @@ This repo will help you set up an invidious server stack. It can work for 1 or a
 
 proton-privoxy can work for 1 or any even number of VPN connections/IP's (1,2,4,6,8,etc).
 
-You could have for example, 4 process(es) on one single VPN IP
-You could have for example, 4 processes with 4 VPN IP's
-Nginx will rotate the backends for you
+- You could have for example, 4 process(es) on one single VPN IP
+- You could have for example, 4 processes with 4 VPN IP's
+- Nginx will rotate the backends for you
 
 ## Features
 - Invidious (compiled and manual install as service, patched to work via http proxy)
