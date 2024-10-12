@@ -30,4 +30,4 @@ I would like to contribute in any way I can to the invidious community. I would 
 Why? The more people that can install their own instance (public or private) the more working instances we have. It broke my hopes when I saw there were no working public instances listed on the documentation. I figured I would add mine to the pile, and get me my own instance to use personally. Together we make invidious stronger, and resilient.
 
 ## Additional Notes
-Working on setup. Will commit later. Currently it works great :3c
+Working on setup. Will commit later. Currently the setup works great :3c
