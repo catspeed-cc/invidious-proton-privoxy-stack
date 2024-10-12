@@ -5,9 +5,9 @@ Invidious Stack - run multiple backend processes over proton-privoxy vpn
 
 Placeholder repository. Please be patient :) It will be ready eventually :)
 
-This repo will help you set up an invidious server stack. It can work for 1 or any even number of services (1,2,4,6,8,etc). 
+invidious.catspeed.cc uses 4 backend processes. Each process has it's own VPN connection.
 
-invidious.catspeed.cc uses 4 backend processes. Each process has it's own VPN connection. It can work for 1 or any even number of invidious services (1,2,4,6,8,etc).
+This repo will help you set up an invidious server stack. It can work for 1 or any even number of invidious services (1,2,4,6,8,etc). 
 
 proton-privoxy can work for 1 or any even number of VPN connections/IP's (1,2,4,6,8,etc).
 
