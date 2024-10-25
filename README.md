@@ -1,4 +1,4 @@
-# invidious-proton-privoxy-stack
+# invidious-stack
 
 ## Description
 Invidious Stack - run multiple backend processes over proton-privoxy vpn
